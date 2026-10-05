@@ -1,7 +1,6 @@
 # 🚀 ResumeForge AI — Intelligent Resume Classification & Profile Analytics
 ### *Samatrix ResumeForge 2026 • Resume Intelligence Hackathon Edition*
 
-![ResumeForge AI](backend/outputs/figures/01_category_distribution.png)
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/React-18+-61DAFB.svg?logo=react&logoColor=black)](https://react.dev)
