@@ -1,0 +1,64 @@
+{
+  "total_test_samples": 249,
+  "total_errors": 73,
+  "test_accuracy": 0.7068,
+  "test_error_rate": 0.2932,
+  "top_confused_pairs": [
+    {
+      "Category": "SALES",
+      "Predicted_Category": "BUSINESS-DEVELOPMENT",
+      "count": 4
+    },
+    {
+      "Category": "CONSULTANT",
+      "Predicted_Category": "BUSINESS-DEVELOPMENT",
+      "count": 3
+    },
+    {
+      "Category": "FINANCE",
+      "Predicted_Category": "ACCOUNTANT",
+      "count": 3
+    },
+    {
+      "Category": "CHEF",
+      "Predicted_Category": "ADVOCATE",
+      "count": 2
+    },
+    {
+      "Category": "ARTS",
+      "Predicted_Category": "TEACHER",
+      "count": 2
+    },
+    {
+      "Category": "CHEF",
+      "Predicted_Category": "HEALTHCARE",
+      "count": 2
+    },
+    {
+      "Category": "ADVOCATE",
+      "Predicted_Category": "APPAREL",
+      "count": 1
+    },
+    {
+      "Category": "AGRICULTURE",
+      "Predicted_Category": "PUBLIC-RELATIONS",
+      "count": 1
+    },
+    {
+      "Category": "AGRICULTURE",
+      "Predicted_Category": "SALES",
+      "count": 1
+    },
+    {
+      "Category": "APPAREL",
+      "Predicted_Category": "ADVOCATE",
+      "count": 1
+    }
+  ],
+  "key_findings": [
+    "Cross-domain skill overlap: BANKING and FINANCE share portfolio and accounting keywords.",
+    "Visual vs Technical roles: ARTS and DESIGNER share creative and digital media terminology.",
+    "Consulting vs Management: CONSULTANT and BUSINESS-DEVELOPMENT share client strategy vocabulary.",
+    "Short resumes lack distinctive technical tokens compared to median-length profiles."
+  ]
+}

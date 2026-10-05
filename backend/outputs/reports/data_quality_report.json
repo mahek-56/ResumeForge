@@ -1,0 +1,63 @@
+{
+  "total_resumes": 2484,
+  "columns": [
+    "ID",
+    "Resume_str",
+    "Resume_html",
+    "Category",
+    "raw_char_len",
+    "raw_word_len"
+  ],
+  "missing_values": {
+    "ID": 0,
+    "Resume_str": 0,
+    "Resume_html": 0,
+    "Category": 0
+  },
+  "id_duplicates": 0,
+  "exact_text_duplicates": 2,
+  "empty_resumes": 1,
+  "very_short_resumes_lt_25_words": 1,
+  "very_long_resumes_gt_2500_words": 16,
+  "total_categories": 24,
+  "category_distribution": {
+    "INFORMATION-TECHNOLOGY": 120,
+    "BUSINESS-DEVELOPMENT": 120,
+    "ADVOCATE": 118,
+    "CHEF": 118,
+    "ENGINEERING": 118,
+    "ACCOUNTANT": 118,
+    "FINANCE": 118,
+    "FITNESS": 117,
+    "AVIATION": 117,
+    "SALES": 116,
+    "BANKING": 115,
+    "HEALTHCARE": 115,
+    "CONSULTANT": 115,
+    "CONSTRUCTION": 112,
+    "PUBLIC-RELATIONS": 111,
+    "HR": 110,
+    "DESIGNER": 107,
+    "ARTS": 103,
+    "TEACHER": 102,
+    "APPAREL": 97,
+    "DIGITAL-MEDIA": 96,
+    "AGRICULTURE": 63,
+    "AUTOMOBILE": 36,
+    "BPO": 22
+  },
+  "word_len_stats": {
+    "min": 0,
+    "max": 5190,
+    "mean": 811.33,
+    "median": 757.0,
+    "std": 371.01
+  },
+  "char_len_stats": {
+    "min": 21,
+    "max": 38842,
+    "mean": 6295.31,
+    "median": 5886.5,
+    "std": 2769.25
+  }
+}

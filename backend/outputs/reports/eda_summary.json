@@ -1,0 +1,1294 @@
+{
+  "total_resumes": 2484,
+  "total_categories": 24,
+  "categories": [
+    "ACCOUNTANT",
+    "ADVOCATE",
+    "AGRICULTURE",
+    "APPAREL",
+    "ARTS",
+    "AUTOMOBILE",
+    "AVIATION",
+    "BANKING",
+    "BPO",
+    "BUSINESS-DEVELOPMENT",
+    "CHEF",
+    "CONSTRUCTION",
+    "CONSULTANT",
+    "DESIGNER",
+    "DIGITAL-MEDIA",
+    "ENGINEERING",
+    "FINANCE",
+    "FITNESS",
+    "HEALTHCARE",
+    "HR",
+    "INFORMATION-TECHNOLOGY",
+    "PUBLIC-RELATIONS",
+    "SALES",
+    "TEACHER"
+  ],
+  "category_counts": {
+    "INFORMATION-TECHNOLOGY": 120,
+    "BUSINESS-DEVELOPMENT": 120,
+    "ADVOCATE": 118,
+    "CHEF": 118,
+    "ENGINEERING": 118,
+    "ACCOUNTANT": 118,
+    "FINANCE": 118,
+    "FITNESS": 117,
+    "AVIATION": 117,
+    "SALES": 116,
+    "BANKING": 115,
+    "HEALTHCARE": 115,
+    "CONSULTANT": 115,
+    "CONSTRUCTION": 112,
+    "PUBLIC-RELATIONS": 111,
+    "HR": 110,
+    "DESIGNER": 107,
+    "ARTS": 103,
+    "TEACHER": 102,
+    "APPAREL": 97,
+    "DIGITAL-MEDIA": 96,
+    "AGRICULTURE": 63,
+    "AUTOMOBILE": 36,
+    "BPO": 22
+  },
+  "median_word_length": 760,
+  "mean_word_length": 815.9,
+  "top_unigrams": [
+    {
+      "term": "state",
+      "count": 16156
+    },
+    {
+      "term": "company",
+      "count": 15212
+    },
+    {
+      "term": "city",
+      "count": 15077
+    },
+    {
+      "term": "management",
+      "count": 12174
+    },
+    {
+      "term": "sales",
+      "count": 8275
+    },
+    {
+      "term": "customer",
+      "count": 7927
+    },
+    {
+      "term": "business",
+      "count": 7866
+    },
+    {
+      "term": "skills",
+      "count": 7727
+    },
+    {
+      "term": "new",
+      "count": 6407
+    },
+    {
+      "term": "service",
+      "count": 6223
+    },
+    {
+      "term": "team",
+      "count": 6072
+    },
+    {
+      "term": "development",
+      "count": 5731
+    },
+    {
+      "term": "training",
+      "count": 5637
+    },
+    {
+      "term": "experience",
+      "count": 5631
+    },
+    {
+      "term": "project",
+      "count": 5362
+    },
+    {
+      "term": "work",
+      "count": 4816
+    },
+    {
+      "term": "manager",
+      "count": 4531
+    },
+    {
+      "term": "information",
+      "count": 4502
+    },
+    {
+      "term": "marketing",
+      "count": 4489
+    },
+    {
+      "term": "financial",
+      "count": 4227
+    }
+  ],
+  "top_bigrams": [
+    {
+      "term": "city state",
+      "count": 14107
+    },
+    {
+      "term": "company city",
+      "count": 9903
+    },
+    {
+      "term": "customer service",
+      "count": 3062
+    },
+    {
+      "term": "project management",
+      "count": 1198
+    },
+    {
+      "term": "current company",
+      "count": 1177
+    },
+    {
+      "term": "microsoft office",
+      "count": 1145
+    },
+    {
+      "term": "university city",
+      "count": 1101
+    },
+    {
+      "term": "high school",
+      "count": 1069
+    },
+    {
+      "term": "business development",
+      "count": 914
+    },
+    {
+      "term": "communication skills",
+      "count": 841
+    },
+    {
+      "term": "human resources",
+      "count": 819
+    },
+    {
+      "term": "public relations",
+      "count": 783
+    },
+    {
+      "term": "social media",
+      "count": 760
+    },
+    {
+      "term": "problem solving",
+      "count": 759
+    },
+    {
+      "term": "bachelor science",
+      "count": 720
+    },
+    {
+      "term": "business administration",
+      "count": 669
+    },
+    {
+      "term": "information technology",
+      "count": 658
+    },
+    {
+      "term": "2014 company",
+      "count": 653
+    },
+    {
+      "term": "college city",
+      "count": 636
+    },
+    {
+      "term": "policies procedures",
+      "count": 627
+    }
+  ],
+  "top_trigrams": [
+    {
+      "term": "company city state",
+      "count": 9722
+    },
+    {
+      "term": "current company city",
+      "count": 1091
+    },
+    {
+      "term": "university city state",
+      "count": 1024
+    },
+    {
+      "term": "college city state",
+      "count": 610
+    },
+    {
+      "term": "2014 company city",
+      "count": 607
+    },
+    {
+      "term": "city state usa",
+      "count": 534
+    },
+    {
+      "term": "2015 company city",
+      "count": 525
+    },
+    {
+      "term": "2013 company city",
+      "count": 514
+    },
+    {
+      "term": "city state responsible",
+      "count": 453
+    },
+    {
+      "term": "2012 company city",
+      "count": 420
+    },
+    {
+      "term": "high school diploma",
+      "count": 393
+    },
+    {
+      "term": "city state managed",
+      "count": 369
+    },
+    {
+      "term": "2011 company city",
+      "count": 360
+    },
+    {
+      "term": "school city state",
+      "count": 333
+    },
+    {
+      "term": "2010 company city",
+      "count": 325
+    }
+  ],
+  "class_top_terms": {
+    "HR": [
+      {
+        "term": "hr",
+        "score": 0.2042
+      },
+      {
+        "term": "employee",
+        "score": 0.1125
+      },
+      {
+        "term": "human",
+        "score": 0.0932
+      },
+      {
+        "term": "human resources",
+        "score": 0.0731
+      },
+      {
+        "term": "benefits",
+        "score": 0.0708
+      },
+      {
+        "term": "management",
+        "score": 0.0663
+      },
+      {
+        "term": "employees",
+        "score": 0.0603
+      },
+      {
+        "term": "recruitment",
+        "score": 0.0585
+      },
+      {
+        "term": "resources",
+        "score": 0.0581
+      },
+      {
+        "term": "payroll",
+        "score": 0.0562
+      }
+    ],
+    "DESIGNER": [
+      {
+        "term": "designer",
+        "score": 0.1254
+      },
+      {
+        "term": "design",
+        "score": 0.1222
+      },
+      {
+        "term": "graphic",
+        "score": 0.067
+      },
+      {
+        "term": "city",
+        "score": 0.0493
+      },
+      {
+        "term": "state",
+        "score": 0.0486
+      },
+      {
+        "term": "interior",
+        "score": 0.0464
+      },
+      {
+        "term": "city state",
+        "score": 0.0463
+      },
+      {
+        "term": "graphic designer",
+        "score": 0.0426
+      },
+      {
+        "term": "company",
+        "score": 0.0416
+      },
+      {
+        "term": "art",
+        "score": 0.0351
+      }
+    ],
+    "INFORMATION-TECHNOLOGY": [
+      {
+        "term": "network",
+        "score": 0.0946
+      },
+      {
+        "term": "technology",
+        "score": 0.0901
+      },
+      {
+        "term": "information technology",
+        "score": 0.086
+      },
+      {
+        "term": "information",
+        "score": 0.0661
+      },
+      {
+        "term": "systems",
+        "score": 0.0648
+      },
+      {
+        "term": "server",
+        "score": 0.0564
+      },
+      {
+        "term": "support",
+        "score": 0.0558
+      },
+      {
+        "term": "hardware",
+        "score": 0.0551
+      },
+      {
+        "term": "software",
+        "score": 0.0542
+      },
+      {
+        "term": "security",
+        "score": 0.0542
+      }
+    ],
+    "TEACHER": [
+      {
+        "term": "teacher",
+        "score": 0.1425
+      },
+      {
+        "term": "students",
+        "score": 0.1259
+      },
+      {
+        "term": "student",
+        "score": 0.0729
+      },
+      {
+        "term": "classroom",
+        "score": 0.0714
+      },
+      {
+        "term": "children",
+        "score": 0.0697
+      },
+      {
+        "term": "learning",
+        "score": 0.0624
+      },
+      {
+        "term": "state",
+        "score": 0.0569
+      },
+      {
+        "term": "teaching",
+        "score": 0.0531
+      },
+      {
+        "term": "city",
+        "score": 0.0508
+      },
+      {
+        "term": "city state",
+        "score": 0.0489
+      }
+    ],
+    "ADVOCATE": [
+      {
+        "term": "customer",
+        "score": 0.063
+      },
+      {
+        "term": "advocate",
+        "score": 0.0594
+      },
+      {
+        "term": "state",
+        "score": 0.0564
+      },
+      {
+        "term": "city",
+        "score": 0.0506
+      },
+      {
+        "term": "city state",
+        "score": 0.0499
+      },
+      {
+        "term": "service",
+        "score": 0.0452
+      },
+      {
+        "term": "patient",
+        "score": 0.045
+      },
+      {
+        "term": "company",
+        "score": 0.043
+      },
+      {
+        "term": "care",
+        "score": 0.0427
+      },
+      {
+        "term": "customer service",
+        "score": 0.0376
+      }
+    ],
+    "BUSINESS-DEVELOPMENT": [
+      {
+        "term": "sales",
+        "score": 0.1434
+      },
+      {
+        "term": "business",
+        "score": 0.1068
+      },
+      {
+        "term": "business development",
+        "score": 0.0982
+      },
+      {
+        "term": "marketing",
+        "score": 0.0762
+      },
+      {
+        "term": "development",
+        "score": 0.0703
+      },
+      {
+        "term": "state",
+        "score": 0.0513
+      },
+      {
+        "term": "company",
+        "score": 0.0504
+      },
+      {
+        "term": "new",
+        "score": 0.0472
+      },
+      {
+        "term": "customer",
+        "score": 0.047
+      },
+      {
+        "term": "city",
+        "score": 0.0462
+      }
+    ],
+    "HEALTHCARE": [
+      {
+        "term": "healthcare",
+        "score": 0.0869
+      },
+      {
+        "term": "patient",
+        "score": 0.0775
+      },
+      {
+        "term": "care",
+        "score": 0.0734
+      },
+      {
+        "term": "medical",
+        "score": 0.0696
+      },
+      {
+        "term": "patients",
+        "score": 0.0555
+      },
+      {
+        "term": "health",
+        "score": 0.0524
+      },
+      {
+        "term": "state",
+        "score": 0.0493
+      },
+      {
+        "term": "management",
+        "score": 0.0451
+      },
+      {
+        "term": "city",
+        "score": 0.0438
+      },
+      {
+        "term": "city state",
+        "score": 0.0427
+      }
+    ],
+    "FITNESS": [
+      {
+        "term": "fitness",
+        "score": 0.163
+      },
+      {
+        "term": "exercise",
+        "score": 0.0513
+      },
+      {
+        "term": "state",
+        "score": 0.0507
+      },
+      {
+        "term": "sales",
+        "score": 0.05
+      },
+      {
+        "term": "city",
+        "score": 0.0487
+      },
+      {
+        "term": "customer",
+        "score": 0.048
+      },
+      {
+        "term": "city state",
+        "score": 0.0475
+      },
+      {
+        "term": "company",
+        "score": 0.044
+      },
+      {
+        "term": "training",
+        "score": 0.0393
+      },
+      {
+        "term": "service",
+        "score": 0.0387
+      }
+    ],
+    "AGRICULTURE": [
+      {
+        "term": "agriculture",
+        "score": 0.0703
+      },
+      {
+        "term": "state",
+        "score": 0.0524
+      },
+      {
+        "term": "city",
+        "score": 0.0461
+      },
+      {
+        "term": "city state",
+        "score": 0.0424
+      },
+      {
+        "term": "company",
+        "score": 0.0379
+      },
+      {
+        "term": "research",
+        "score": 0.0355
+      },
+      {
+        "term": "management",
+        "score": 0.0344
+      },
+      {
+        "term": "program",
+        "score": 0.0328
+      },
+      {
+        "term": "students",
+        "score": 0.0311
+      },
+      {
+        "term": "project",
+        "score": 0.0297
+      }
+    ],
+    "BPO": [
+      {
+        "term": "management",
+        "score": 0.0633
+      },
+      {
+        "term": "network",
+        "score": 0.0486
+      },
+      {
+        "term": "bpo",
+        "score": 0.0485
+      },
+      {
+        "term": "client",
+        "score": 0.0467
+      },
+      {
+        "term": "team",
+        "score": 0.0407
+      },
+      {
+        "term": "process",
+        "score": 0.0403
+      },
+      {
+        "term": "business",
+        "score": 0.0402
+      },
+      {
+        "term": "customer",
+        "score": 0.039
+      },
+      {
+        "term": "sales",
+        "score": 0.0384
+      },
+      {
+        "term": "company",
+        "score": 0.0372
+      }
+    ],
+    "SALES": [
+      {
+        "term": "sales",
+        "score": 0.1548
+      },
+      {
+        "term": "customer",
+        "score": 0.082
+      },
+      {
+        "term": "customers",
+        "score": 0.0731
+      },
+      {
+        "term": "state",
+        "score": 0.0565
+      },
+      {
+        "term": "city",
+        "score": 0.054
+      },
+      {
+        "term": "city state",
+        "score": 0.0536
+      },
+      {
+        "term": "service",
+        "score": 0.053
+      },
+      {
+        "term": "company",
+        "score": 0.0529
+      },
+      {
+        "term": "store",
+        "score": 0.0492
+      },
+      {
+        "term": "sales associate",
+        "score": 0.0481
+      }
+    ],
+    "CONSULTANT": [
+      {
+        "term": "consultant",
+        "score": 0.0572
+      },
+      {
+        "term": "business",
+        "score": 0.0513
+      },
+      {
+        "term": "management",
+        "score": 0.0498
+      },
+      {
+        "term": "company",
+        "score": 0.0438
+      },
+      {
+        "term": "state",
+        "score": 0.0437
+      },
+      {
+        "term": "city",
+        "score": 0.041
+      },
+      {
+        "term": "city state",
+        "score": 0.0391
+      },
+      {
+        "term": "project",
+        "score": 0.035
+      },
+      {
+        "term": "client",
+        "score": 0.0314
+      },
+      {
+        "term": "company city",
+        "score": 0.0304
+      }
+    ],
+    "DIGITAL-MEDIA": [
+      {
+        "term": "media",
+        "score": 0.1198
+      },
+      {
+        "term": "marketing",
+        "score": 0.1187
+      },
+      {
+        "term": "digital",
+        "score": 0.1094
+      },
+      {
+        "term": "social",
+        "score": 0.059
+      },
+      {
+        "term": "social media",
+        "score": 0.0564
+      },
+      {
+        "term": "content",
+        "score": 0.0556
+      },
+      {
+        "term": "state",
+        "score": 0.0494
+      },
+      {
+        "term": "company",
+        "score": 0.049
+      },
+      {
+        "term": "city",
+        "score": 0.0476
+      },
+      {
+        "term": "city state",
+        "score": 0.0468
+      }
+    ],
+    "AUTOMOBILE": [
+      {
+        "term": "claims",
+        "score": 0.0675
+      },
+      {
+        "term": "customer",
+        "score": 0.0662
+      },
+      {
+        "term": "state",
+        "score": 0.0554
+      },
+      {
+        "term": "service",
+        "score": 0.0545
+      },
+      {
+        "term": "city",
+        "score": 0.0507
+      },
+      {
+        "term": "city state",
+        "score": 0.0495
+      },
+      {
+        "term": "company",
+        "score": 0.0493
+      },
+      {
+        "term": "customer service",
+        "score": 0.0411
+      },
+      {
+        "term": "company city",
+        "score": 0.0401
+      },
+      {
+        "term": "management",
+        "score": 0.0343
+      }
+    ],
+    "CHEF": [
+      {
+        "term": "food",
+        "score": 0.1842
+      },
+      {
+        "term": "chef",
+        "score": 0.1604
+      },
+      {
+        "term": "kitchen",
+        "score": 0.1086
+      },
+      {
+        "term": "culinary",
+        "score": 0.0821
+      },
+      {
+        "term": "menu",
+        "score": 0.0604
+      },
+      {
+        "term": "restaurant",
+        "score": 0.0533
+      },
+      {
+        "term": "state",
+        "score": 0.0497
+      },
+      {
+        "term": "executive chef",
+        "score": 0.0491
+      },
+      {
+        "term": "cooking",
+        "score": 0.0483
+      },
+      {
+        "term": "city",
+        "score": 0.0469
+      }
+    ],
+    "FINANCE": [
+      {
+        "term": "financial",
+        "score": 0.127
+      },
+      {
+        "term": "finance",
+        "score": 0.1216
+      },
+      {
+        "term": "accounting",
+        "score": 0.0947
+      },
+      {
+        "term": "management",
+        "score": 0.0512
+      },
+      {
+        "term": "accounts",
+        "score": 0.0486
+      },
+      {
+        "term": "reporting",
+        "score": 0.0476
+      },
+      {
+        "term": "state",
+        "score": 0.0475
+      },
+      {
+        "term": "company",
+        "score": 0.0475
+      },
+      {
+        "term": "business",
+        "score": 0.0474
+      },
+      {
+        "term": "city",
+        "score": 0.0441
+      }
+    ],
+    "APPAREL": [
+      {
+        "term": "sales",
+        "score": 0.0803
+      },
+      {
+        "term": "store",
+        "score": 0.0657
+      },
+      {
+        "term": "state",
+        "score": 0.0584
+      },
+      {
+        "term": "city",
+        "score": 0.0571
+      },
+      {
+        "term": "city state",
+        "score": 0.0567
+      },
+      {
+        "term": "company",
+        "score": 0.0549
+      },
+      {
+        "term": "customer",
+        "score": 0.0493
+      },
+      {
+        "term": "apparel",
+        "score": 0.0457
+      },
+      {
+        "term": "product",
+        "score": 0.0449
+      },
+      {
+        "term": "company city",
+        "score": 0.0441
+      }
+    ],
+    "ENGINEERING": [
+      {
+        "term": "engineering",
+        "score": 0.1516
+      },
+      {
+        "term": "manufacturing",
+        "score": 0.0551
+      },
+      {
+        "term": "project",
+        "score": 0.0487
+      },
+      {
+        "term": "electrical",
+        "score": 0.0453
+      },
+      {
+        "term": "design",
+        "score": 0.045
+      },
+      {
+        "term": "mechanical",
+        "score": 0.0447
+      },
+      {
+        "term": "test",
+        "score": 0.0436
+      },
+      {
+        "term": "equipment",
+        "score": 0.043
+      },
+      {
+        "term": "engineer",
+        "score": 0.0415
+      },
+      {
+        "term": "systems",
+        "score": 0.0399
+      }
+    ],
+    "ACCOUNTANT": [
+      {
+        "term": "accounting",
+        "score": 0.175
+      },
+      {
+        "term": "financial",
+        "score": 0.1209
+      },
+      {
+        "term": "accountant",
+        "score": 0.1134
+      },
+      {
+        "term": "accounts",
+        "score": 0.0975
+      },
+      {
+        "term": "tax",
+        "score": 0.0791
+      },
+      {
+        "term": "ledger",
+        "score": 0.0643
+      },
+      {
+        "term": "general ledger",
+        "score": 0.0568
+      },
+      {
+        "term": "payroll",
+        "score": 0.0553
+      },
+      {
+        "term": "statements",
+        "score": 0.0514
+      },
+      {
+        "term": "monthly",
+        "score": 0.0495
+      }
+    ],
+    "CONSTRUCTION": [
+      {
+        "term": "construction",
+        "score": 0.2265
+      },
+      {
+        "term": "project",
+        "score": 0.0927
+      },
+      {
+        "term": "safety",
+        "score": 0.0528
+      },
+      {
+        "term": "projects",
+        "score": 0.0475
+      },
+      {
+        "term": "state",
+        "score": 0.0466
+      },
+      {
+        "term": "city",
+        "score": 0.0448
+      },
+      {
+        "term": "site",
+        "score": 0.0435
+      },
+      {
+        "term": "management",
+        "score": 0.0415
+      },
+      {
+        "term": "city state",
+        "score": 0.0411
+      },
+      {
+        "term": "company",
+        "score": 0.0405
+      }
+    ],
+    "PUBLIC-RELATIONS": [
+      {
+        "term": "media",
+        "score": 0.1201
+      },
+      {
+        "term": "public relations",
+        "score": 0.1063
+      },
+      {
+        "term": "public",
+        "score": 0.1027
+      },
+      {
+        "term": "relations",
+        "score": 0.0966
+      },
+      {
+        "term": "marketing",
+        "score": 0.0861
+      },
+      {
+        "term": "press",
+        "score": 0.071
+      },
+      {
+        "term": "communications",
+        "score": 0.0568
+      },
+      {
+        "term": "events",
+        "score": 0.056
+      },
+      {
+        "term": "company",
+        "score": 0.0489
+      },
+      {
+        "term": "state",
+        "score": 0.0443
+      }
+    ],
+    "BANKING": [
+      {
+        "term": "banking",
+        "score": 0.0826
+      },
+      {
+        "term": "financial",
+        "score": 0.065
+      },
+      {
+        "term": "business",
+        "score": 0.0591
+      },
+      {
+        "term": "sales",
+        "score": 0.0539
+      },
+      {
+        "term": "management",
+        "score": 0.0532
+      },
+      {
+        "term": "loan",
+        "score": 0.0458
+      },
+      {
+        "term": "bank",
+        "score": 0.0442
+      },
+      {
+        "term": "state",
+        "score": 0.044
+      },
+      {
+        "term": "customer",
+        "score": 0.0415
+      },
+      {
+        "term": "company",
+        "score": 0.0411
+      }
+    ],
+    "ARTS": [
+      {
+        "term": "students",
+        "score": 0.065
+      },
+      {
+        "term": "arts",
+        "score": 0.0607
+      },
+      {
+        "term": "state",
+        "score": 0.0534
+      },
+      {
+        "term": "city",
+        "score": 0.0471
+      },
+      {
+        "term": "city state",
+        "score": 0.047
+      },
+      {
+        "term": "school",
+        "score": 0.0455
+      },
+      {
+        "term": "student",
+        "score": 0.0441
+      },
+      {
+        "term": "teacher",
+        "score": 0.0433
+      },
+      {
+        "term": "company",
+        "score": 0.0376
+      },
+      {
+        "term": "art",
+        "score": 0.0323
+      }
+    ],
+    "AVIATION": [
+      {
+        "term": "aviation",
+        "score": 0.1055
+      },
+      {
+        "term": "aircraft",
+        "score": 0.0846
+      },
+      {
+        "term": "maintenance",
+        "score": 0.0498
+      },
+      {
+        "term": "flight",
+        "score": 0.0457
+      },
+      {
+        "term": "state",
+        "score": 0.0411
+      },
+      {
+        "term": "safety",
+        "score": 0.04
+      },
+      {
+        "term": "city",
+        "score": 0.0389
+      },
+      {
+        "term": "equipment",
+        "score": 0.0384
+      },
+      {
+        "term": "city state",
+        "score": 0.0372
+      },
+      {
+        "term": "management",
+        "score": 0.0362
+      }
+    ]
+  }
+}
